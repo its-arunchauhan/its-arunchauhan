@@ -26,5 +26,73 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-a55c1a4e-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
   </a>
   <a href="https://www.instagram.com/arun.chauhanx" target="_blank">
->
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" />
+  </a>
+  <br><br>
+  <a href="https://leetcode.com/u/its-arunchauhan/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" />
+  </a>
+  <a href="https://codeforces.com/profile/arunchauhan">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/its_me_arun">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=its-arunchauhan&style=for-the-badge" />
+</div>
+
+---
+
+## 🧠 About Me
+- 🎓 **B.Tech CSE 2nd-year student**
+- 🧩 Passionate **Competitive Programmer**
+- 💻 Full-Stack & Backend Developer
+- 🤖 Exploring **AI / ML** and intelligent systems
+- 🚀 Focused on fundamentals, problem-solving, and scalable software
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,nodejs,express,mysql,mongodb,postgres,docker,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-arunchauhan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-arunchauhan&theme=synthwave&hide_border=true" width="49%" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-arunchauhan&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## 🗂️ Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&theme=highcontrast" height="180em" />
+</p>
+
+---
+
+## 📊 More GitHub Insights
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-arunchauhan&theme=highcontrast" height="150" />
+</div>
+
+---
+
+<h3 align="center">Thanks for stopping by 🙌</h3>
 <p align="right"><a href="#top">🔝 Back to Top</a></p>
