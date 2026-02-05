@@ -12,12 +12,12 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=B.Tech+CSE+2nd+Year+Student;Competitive+Programmer;Full-Stack+%26+Backend+Developer;AI+%2F+ML+Enthusiast;Building+Strong+Foundations+in+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=B.Tech+CSE+2nd+Year+Student;Competitive+Programmer;Full-Stack+%26+Backend+Developer;AI+%2F+ML+Enthusiast;Product+Builder+%26+Open-Source+Contributor;Building+Strong+Foundations+in+Tech" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 <div align="center">
   <a href="https://x.com/itsarun_chauhan" target="_blank">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" />
@@ -45,17 +45,18 @@
 ---
 
 ## 🧠 About Me
-- 🎓 **B.Tech CSE 2nd-year student**
+- 🎓 **B.Tech CSE 2nd-year undergrad student passionate about building useful, real-world products.**
 - 🧩 Passionate **Competitive Programmer**
 - 💻 Full-Stack & Backend Developer
 - 🤖 Exploring **AI / ML** and intelligent systems
-- 🚀 Focused on fundamentals, problem-solving, and scalable software
+- 🚀 Focused on fundamentals, problem-solving, and scalable software.
+- 🌐 Explore my work → [**Portfolio website **]
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,nodejs,express,mysql,mongodb,postgres,docker,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,python,java,js,ts,react,nextjs,nodejs,express,mysql,mongodb,firebase,supabase,postgres,postman,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
