@@ -1,3 +1,4 @@
+<a id="top"></a>
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/its-arunchauhan/its-arunchauhan/main/hacker_scene_fullscreen.gif" width="100%" alt="Cyberpunk Hacker Banner" />
@@ -54,7 +55,7 @@
 - 💻 Full-Stack & Backend Developer
 - 🤖 Exploring **AI / ML** and intelligent systems
 - 🚀 Focused on fundamentals, problem-solving, and scalable software.
-- 🌐 Explore my work → [**Portfolio website **]
+- 🌐 Explore my work → [**Portfolio website **](https://your-portfolio-link.com)
 
 ---
 
@@ -68,18 +69,10 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=its-arunchauhan&theme=dracula&margin-w=10&margin-h=10&column=6"
-  />
-  <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=its-arunchauhan&theme=synthwave&hide_border=true&cache_seconds=86400"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github"
   />
 </div>
+
 
 ---
 
@@ -91,22 +84,21 @@
 ---
 
 ## 🗂️ Language Usage
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&langs_count=8&theme=highcontrast&cache_seconds=86400"
-    height="180"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"
+  height="180"
+/>
+
 
 
 ---
 
 ## 📊 More GitHub Insights
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-arunchauhan&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-arunchauhan&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-arunchauhan&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-arunchauhan&theme=highcontrast" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-arunchauhan&theme=highcontrast" height="150" />
 </div>
 
 ---
