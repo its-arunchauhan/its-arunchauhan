@@ -69,9 +69,15 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img
+    src="https://github-profile-trophy.vercel.app/?username=its-arunchauhan&theme=dracula&no-frame=true&no-bg=true&margin-w=6"
+  />
+  <br><br>
+  <img
     src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github"
+    width="70%"
   />
 </div>
+
 
 
 ---
@@ -84,10 +90,13 @@
 ---
 
 ## 🗂️ Language Usage
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"
-  height="180"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast&hide_border=true"
+    height="180"
+  />
+</p>
+
 
 
 
