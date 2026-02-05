@@ -1,6 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-arunchauhan/its-arunchauhan/main/hacker_scene_fullscreen.gif" width="900" />
+</p>
+
+<h1 align="center">Hi there 👋</h1>
 
 <!--
+## Hi there 👋
+
+
 **its-arunchauhan/its-arunchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
