@@ -23,7 +23,7 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/arun-chauhan-dev/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-a55c1a4e-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
   </a>
   <a href="https://www.instagram.com/arun.chauhanx" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" />
@@ -35,9 +35,13 @@
   <a href="https://codeforces.com/profile/arunchauhan">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
   </a>
+  <a href="https://atcoder.jp/users/itsarun" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg" height="50" />
+  </a>
   <a href="https://www.codechef.com/users/its_me_arun">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
   </a>
+  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=its-arunchauhan&style=for-the-badge" />
 </div>
@@ -56,7 +60,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,python,java,js,ts,react,nextjs,nodejs,express,mysql,mongodb,firebase,supabase,postgres,postman,docker,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mysql,mongodb,firebase,supabase,postgres,postman,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
