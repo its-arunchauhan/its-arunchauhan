@@ -36,8 +36,8 @@
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
   </a>
   <a href="https://atcoder.jp/users/itsarun" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg" height="50" />
-  </a>
+  <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" height="40" />
+   </a>
   <a href="https://www.codechef.com/users/its_me_arun">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
   </a>
@@ -60,17 +60,25 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mysql,mongodb,firebase,supabase,postgres,postman,docker,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mysql,prisma,fastapi,mongodb,firebase,supabase,postgres,postman,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-arunchauhan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=its-arunchauhan&theme=dracula&margin-w=10&margin-h=10&column=6"
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-arunchauhan&theme=synthwave&hide_border=true" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=its-arunchauhan&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=its-arunchauhan&theme=synthwave&hide_border=true&cache_seconds=86400"
+    width="48%"
+  />
 </div>
 
 ---
@@ -84,8 +92,12 @@
 
 ## 🗂️ Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&theme=highcontrast" height="180em" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arunchauhan&layout=compact&langs_count=8&theme=highcontrast&cache_seconds=86400"
+    height="180"
+  />
 </p>
+
 
 ---
 
