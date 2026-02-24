@@ -58,6 +58,24 @@
 - 🌐 Explore my work → [**Portfolio website **](https://your-portfolio-link.com)
 
 ---
+
+## 🚀 What I’m Working On
+
+🔬 Developing end-to-end ML pipelines from data preprocessing to deployment.
+
+🤖 Engineering Generative AI applications using LLMs, RAG architectures, and vector databases.
+
+🏋️ Fine-tuning foundation models (LoRA / PEFT) for domain-specific use cases.
+
+⚡ Optimizing inference performance and model efficiency.
+
+🚀 Deploying scalable AI services with FastAPI, Docker, and CI/CD workflows.
+
+📊 Advancing algorithmic problem-solving and system-level thinking in C++.
+
+📚 Deepening expertise in OS, DBMS, OOP, and Distributed Systems.
+
+---
 # 💻 Tech Stack
 
 ## 🧠 Core Languages
@@ -133,6 +151,31 @@
 
 ---
 
+## 💡 What I Can Do
+
+🤖 AI & Machine Learning Development  
+Design, train, evaluate, and optimize ML/DL models for real-world use cases.
+
+🔮 Generative AI Engineering  
+Build LLM-powered applications using RAG pipelines, vector databases, prompt engineering, and fine-tuning techniques.
+
+⚙️ End-to-End AI Systems  
+Develop complete ML pipelines — from data preprocessing to model deployment using FastAPI and Docker.
+
+🌐 Full-Stack AI Applications  
+Integrate AI models into scalable web apps using React, Node.js, and modern backend architectures.
+
+🧠 Algorithmic Problem Solving  
+Write efficient, optimized C++ solutions with strong foundations in Data Structures & Algorithms.
+
+☁️ Deployment & DevOps  
+Containerize and deploy applications on cloud platforms (Vercel, Render, Netlify) with CI/CD workflows.
+
+📚 Continuous Technical Growth  
+Systematically master advanced topics in AI, System Design, and Core CS fundamentals.
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img
@@ -153,19 +196,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-arunchauhan&theme=dracula&hide_border=true" />
 </div>
-
----
-
-## 🗂️ Language Usage
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast&hide_border=true"
-    height="180"
-  />
-</p>
-
-
-
 
 ---
 
