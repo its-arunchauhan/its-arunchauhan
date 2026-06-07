@@ -1,7 +1,7 @@
 <a id="top"></a>
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-arunchauhan/its-arunchauhan/main/hacker_scene_fullscreen.gif" width="100%" alt="Cyberpunk Hacker Banner" />
+  <img src="https://raw.githubusercontent.com/its-arunchauhan/its-arunchauhan/main/128830191-39fa5dda-2604-4f50-bdf5-58ea8330932b.gif" width="100%" alt="Cyberpunk Hacker Banner" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
