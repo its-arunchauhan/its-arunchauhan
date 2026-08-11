@@ -1,19 +1,17 @@
 <a id="top"></a>
 <div align="center"
 
-<!-- Animated Header Banner -->
-<img width="100%" src="" />
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">
+Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" />
+I'm <a href="https://www.linkedin.com/in/arun-chauhan-dev/" target="_blank">Arun Chauhan</a>
+</h1>
 
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=800&lines=Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Full-Stack+%26+Backend+Developer;AI+%2F+ML+Engineer;Seeking+Internships+%26+AI%2FML+Roles" alt="Typing SVG" />
 </a>
-
-I'm a **Computer Science undergraduate** passionate about building intelligent, scalable, and production-oriented software systems.
-
-My primary interests are **AI Engineering, Full-Stack Development, and Competitive Programming**.
-
 
 ---
 ## `> whoami`
@@ -70,9 +68,9 @@ class Vaibhav:
 └──────────────────────┴─────────────────────────────────────────────────────┘
 
 
-## 🌐 Web Development Architecture
+### 🌐 Web Development Architecture
 
-```text
+```
 ┌────────────────────────────────────────────────────────────────────────────┐
 │                         FULL-STACK STACK                                   │
 ├──────────────────────┬─────────────────────────────────────────────────────┤
@@ -152,6 +150,46 @@ A full-stack platform designed to manage smart transportation operations with ro
 
 🔗 [Repository](YOUR_REPOSITORY_LINK)
 
+---
+## 🎯 Current Focus
+
+```
+[████████████░░░░░░░] LangGraph — Multi-Agent Workflow Systems
+[████████████████░░░] End-to-End AI Deployment (FastAPI + Docker + Cloud)
+[████████░░░░░░░░░░░] Foundation Models & LLM Fine-tuning
+[████████████░░░░░░░] Open Source AI/ML Contributions
+[████████████████░░░] Internship & AI/ML Role Applications
+```
+
+## 💼 Open To Work
+
+<div align="center">
+
+> 🚀 **Actively seeking internships and roles in:**
+
+| Role | Preference |
+|---|---|
+| AI/ML Research Intern | Remote / Hybrid / Onsite |
+| ML/AI Engineer | Remote / Hybrid / Onsite |
+| Agentic AI / GenAI Developer | Remote / Hybrid / Onsite |
+| Research Collaborations | Open Globally |
+
+*Willing to relocate · Open to global opportunities · Immediate availability*
+
+</div>
+
+---
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
+
+**"From signal to insight. From model to deployment. From idea to impact."**
+
+*B.Tech 3rd Year  · Agentic AI · ML Engineer· Competitive Programmer *
+
+⭐ *If you find my work interesting, consider starring my repositories!*
+
+</div>
 ---
 
 <p align="right">
