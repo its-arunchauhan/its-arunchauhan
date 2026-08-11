@@ -1,5 +1,4 @@
 <a id="top"></a>
-<div align="center"
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">
@@ -17,25 +16,31 @@ I'm <a href="https://www.linkedin.com/in/arun-chauhan-dev/" target="_blank">Arun
 ## `> whoami`
 
 ```python
-class Vaibhav:
-    name        = "Arun Chauhan"
-    pronouns    = "he/him"
-    education   = "B.Tech CSE (AI & ML) @ MPDREC,Gonda, U.P., Inidia · 2024-2028"
-    reume       = "view resume" (my_reumsume_link)
-    email       = "arun.chauhan.dev@gmail.com"
-    linkedin    = "https://linkedin.com/arun"
-    portfolio   = "https://arunchauhan.tech"
+class Arun:
+    name       = "Arun Chauhan"
+    pronouns   = "he/him"
+    education  = "B.Tech CSE (AI & ML) @ MPDREC, Gonda · 2024–2028"
+    resume     = "YOUR_RESUME_LINK"
+    email      = "arun.chauhan.dev@gmail.com"
+    linkedin   = "YOUR_LINKEDIN_LINK"
+    portfolio  = "https://arunchauhan.tech"
 
-    domains     = [
-        "Agentic AI & GenAI",       # LangChain, LangGraph, RAG, AI Agents
-        "NLP & LLMs",               # BERT, Transformers, Hugging Face, Fine-tuning
-        "End-to-End ML Deployment", # FastAPI, Docker, Streamlit, Containerization
-        "Web Devolpment",           # NextJS, FastAPI, MongoDB, FireBase, Git/GitHub
+    domains = [
+        "Agentic AI & GenAI",        # LangChain, LangGraph, RAG, AI Agents
+        "NLP & LLMs",                # Transformers, Hugging Face, Fine-tuning
+        "End-to-End ML Deployment",  # FastAPI, Docker, Streamlit, Deployment
+        "Web Development",           # Next.js, FastAPI, MongoDB, Firebase
     ]
-    open_to     = ["Research Internships", "AI/ML Roles", "Web Developer Roles", "Remote/Hybrid/Onsite"]
-    motto       = "From problems to solutions. From models to systems. From ideas to impact."
-```
----
+
+    open_to = [
+        "Research Internships",
+        "AI/ML Roles",
+        "Web Developer Roles",
+        "Remote / Hybrid / Onsite",
+    ]
+
+    motto = "From problems to solutions. From models to systems. From ideas to impact."
+
 
 ## 🧠 What I Do
 
@@ -68,30 +73,31 @@ class Vaibhav:
 └──────────────────────┴─────────────────────────────────────────────────────┘
 
 
-### 🌐 Web Development Architecture
+## 🌐 Full-Stack & AI Application Architecture
 
-```
+
 ┌────────────────────────────────────────────────────────────────────────────┐
-│                         FULL-STACK STACK                                   │
+│                    FULL-STACK AI APPLICATION STACK                         │
 ├──────────────────────┬─────────────────────────────────────────────────────┤
-│  Frontend            │  React · Next.js · TypeScript · JavaScript          │
+│  Frontend            │  React · Next.js · TypeScript · Tailwind CSS       │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  UI & Styling        │  Tailwind CSS · Responsive Design                   │
+│  Application Layer   │  Next.js · Server Components · API Routes          │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  Backend             │  FastAPI · Node.js · Express.js                     │
+│  Backend             │  FastAPI · Node.js · Express.js                    │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  APIs                │  REST APIs · JSON · API Integration                 │
+│  AI Integration      │  LLM APIs · RAG · AI Agents · Tool Calling         │
+├──────────────────────┼─────────────────────────────────────────────────────┤
+│  APIs                │  REST APIs · JSON · Async APIs                     │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
 │  Authentication      │  JWT · OAuth · Authentication · Authorization       │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  Databases           │  PostgreSQL · MongoDB · SQL                         │
+│  Data Layer          │  PostgreSQL · MongoDB · SQL · Prisma · SQLAlchemy  │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  ORM & Data Layer    │  Prisma · SQLAlchemy · Database Design              │
+│  Infrastructure      │  Docker · Git · GitHub Actions · CI/CD             │
 ├──────────────────────┼─────────────────────────────────────────────────────┤
-│  DevOps              │  Git · GitHub · Docker · GitHub Actions             │
-├──────────────────────┼─────────────────────────────────────────────────────┤
-│  Deployment          │  Vercel · Cloud Platforms · CI/CD                   │
+│  Deployment          │  Vercel · Cloud Platforms · Production APIs        │
 └──────────────────────┴─────────────────────────────────────────────────────┘
+```
 
 ### ⚡ Competitive Programming
 
@@ -182,14 +188,12 @@ A full-stack platform designed to manage smart transportation operations with ro
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
+</div>
 
 **"From signal to insight. From model to deployment. From idea to impact."**
 
-*B.Tech 3rd Year  · Agentic AI · ML Engineer· Competitive Programmer *
+**B.Tech 3rd Year  · Agentic AI · ML Engineer· Competitive Programmer **
 
-⭐ *If you find my work interesting, consider starring my repositories!*
-
-</div>
 ---
 
 <p align="right">
